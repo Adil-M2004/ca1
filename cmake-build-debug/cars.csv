@@ -1,0 +1,101 @@
+car_id,car_make,car_model,model_year,engine_size
+1,Subaru,Tribeca,2007,1.8
+2,Honda,Accord Crosstour,2011,2
+3,Isuzu,Trooper,1993,1.4
+4,Bentley,Continental GTC,2008,1.7
+5,Volkswagen,Passat,1995,2.3
+6,Mercury,Grand Marquis,1992,2.5
+7,Dodge,Caravan,2012,3
+8,Nissan,Titan,2010,3.5
+9,Volkswagen,New Beetle,2001,3
+10,Cadillac,DeVille,1993,1.7
+11,Nissan,JUKE,2012,1.5
+12,Maserati,Spyder,1990,1.2
+13,Lincoln,MKT,2010,1.3
+14,Mercury,Sable,2002,1.6
+15,Kia,Sedona,2007,1.4
+16,Buick,Regal,1993,2
+17,Chevrolet,S10,1994,3
+18,GMC,Vandura 3500,1994,1.8
+19,Mercedes-Benz,E-Class,1996,2
+20,Subaru,SVX,1997,1.4
+21,Honda,CR-V,2010,1.7
+22,Nissan,Murano,2005,2.3
+23,Isuzu,Ascender,2006,2.5
+24,Ford,Ranger,1998,3
+25,Eagle,Vision,1996,3.5
+26,Lincoln,Town Car,1990,3
+27,Ford,Econoline E150,1996,1.7
+28,Mitsubishi,GTO,1990,1.5
+29,Lincoln,Navigator L,2007,1.2
+30,GMC,3500,1999,1.3
+31,Honda,CR-V,2002,1.6
+32,Ford,Probe,1990,1.4
+33,GMC,2500,1992,2
+34,GMC,Envoy,2009,3
+35,Ford,Explorer Sport Trac,2001,1.8
+36,Isuzu,Hombre,1996,2
+37,Ford,Mustang,1970,1.4
+38,Ram,C/V,2012,1.7
+39,Chevrolet,Avalanche,2009,2.3
+40,Mazda,MX-5,1993,2.5
+41,Mitsubishi,Pajero,1991,3
+42,Daewoo,Nubira,2000,3.5
+43,Honda,Prelude,1985,3
+44,Eagle,Talon,1994,1.7
+45,Chevrolet,Silverado 3500,2002,1.5
+46,Chevrolet,Cavalier,1998,1.2
+47,Dodge,Dakota Club,1993,1.3
+48,Ford,Explorer Sport Trac,2006,1.6
+49,Mercedes-Benz,SLK-Class,2002,1.4
+50,Dodge,Ram 2500,2008,2
+51,Maserati,Coupe,2006,3
+52,Saturn,Astra,2009,1.8
+53,Isuzu,i-290,2008,2
+54,Chrysler,Crossfire Roadster,2006,1.4
+55,Chevrolet,Suburban 2500,2010,1.7
+56,Kia,Rio,2008,2.3
+57,Toyota,Camry,2012,2.5
+58,Mitsubishi,Truck,1986,3
+59,Mercedes-Benz,S-Class,1996,3.5
+60,Toyota,Sienna,2012,3
+61,Ford,F350,1992,1.7
+62,Audi,S6,2009,1.5
+63,Honda,Civic,2012,1.2
+64,Suzuki,Forenza,2008,1.3
+65,Pontiac,Firebird,1989,1.6
+66,Buick,Riviera,1993,1.4
+67,Chevrolet,Avalanche,2008,2
+68,Lincoln,Town Car,2008,3
+69,Cadillac,DeVille,2001,1.8
+70,Porsche,911,1992,2
+71,Cadillac,Seville,1992,1.4
+72,Buick,Park Avenue,2005,1.7
+73,BMW,525,2005,2.3
+74,Plymouth,Acclaim,1993,2.5
+75,Mercedes-Benz,CLK-Class,2004,3
+76,Toyota,Solara,1999,3.5
+77,Honda,Accord,1983,3
+78,Volvo,XC90,2013,1.7
+79,MINI,Clubman,2010,1.5
+80,Jeep,Grand Cherokee,2004,1.2
+81,BMW,650,2006,1.3
+82,Mercedes-Benz,C-Class,2007,1.6
+83,Mitsubishi,Excel,1987,1.4
+84,Isuzu,Axiom,2004,2
+85,Chevrolet,Silverado 1500,2011,3
+86,Infiniti,FX,2004,1.8
+87,Mitsubishi,Lancer,2001,2
+88,Ford,Focus,2007,1.4
+89,Chevrolet,2500,1998,1.7
+90,Ford,E350,2006,2.3
+91,Audi,200,1990,2.5
+92,BMW,Z8,2000,3
+93,Kia,Spectra,2005,3.5
+94,Buick,Hearse,1996,3
+95,GMC,Savana 2500,1997,1.7
+96,Nissan,Maxima,2011,1.5
+97,Ford,F150,2009,1.2
+98,Aston Martin,V8 Vantage,2007,1.3
+99,Kia,Sedona,2012,1.6
+100,Dodge,Nitro,2008,1.4

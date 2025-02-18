@@ -1,0 +1,3 @@
+C:/Users/manzoor/CLionProjects/fileI/ca1/cmake-build-debug/CMakeFiles/ca1.dir
+C:/Users/manzoor/CLionProjects/fileI/ca1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/manzoor/CLionProjects/fileI/ca1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

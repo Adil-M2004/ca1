@@ -21,7 +21,7 @@ int main()
 
     location = line.find(',');
     first = line.substr(0, location);
-    line = line.substr(location + 1, line.length());
+    line = line.substr(location, line.length());
     cout << line << endl;
 
     return 0;

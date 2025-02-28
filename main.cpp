@@ -51,6 +51,13 @@ void displayCars(const vector<Car>& cars) {
     }
 }
 
+// Function to find car by make STAGE 3
+int findCarByMake(const vector<Car>& cars, const string& make) {
+    for (size_t i = 0; i < cars.size(); i++) {
+        if (cars[i].make == make) return i;
+    }
+    return -1;
+}
 
 
 int main() {
